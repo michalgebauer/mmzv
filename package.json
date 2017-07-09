@@ -1,0 +1,23 @@
+{
+  "name": "mmzv",
+  "version": "1.0.0",
+  "description": "Meno - Mesto - Zviera - Vec",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalgebauer/mmzv.git"
+  },
+  "author": "michal.gebauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalgebauer/mmzv/issues"
+  },
+  "homepage": "https://github.com/michalgebauer/mmzv#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
